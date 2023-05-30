@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🎓 I am Ayongezwa Ndamase, a ** Web Developer** (specializing in **JavaScript**). I have academic history in the health field, and I enjoy spreading knowledge through teaching. I love Maths and English.
+- 🎓 I am Ayongezwa Ndamase, a **Web Developer** (specializing in **JavaScript**). I have academic history in the health field, and I enjoy spreading knowledge through teaching. I love Maths and English.
 
 
 - 🎸 Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies include **gym**, **Hiking**, **playing board games**, and currently learning  **touch typing**.
