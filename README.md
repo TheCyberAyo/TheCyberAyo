@@ -9,9 +9,9 @@
 
 - 🎸 Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies include **gym**, **Hiking**, **playing board games**, and currently learning  **touch typing**.
 
-- 📚 I also listening to audiobooks and podcasts
+- 📚 I also love listening to audiobooks and podcasts
 
-- 🔭 I’m currently working on projects that make up the back-end of JavaScript
+- 🔭 I’m currently working on projects that make up the back-end side of JavaScript
 
 
 - 📫 How to reach me:
