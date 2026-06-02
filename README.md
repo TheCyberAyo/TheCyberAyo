@@ -11,7 +11,7 @@
 
 - 📚 I also love listening to audiobooks and podcasts
 
-- 🔭 I’m currently working on projects that make up the back-end side of JavaScript
+- 🔭 I’m currently working on the ios version of my Flutter project, Bee Five.
 
 
 - 📫 How to reach me:
