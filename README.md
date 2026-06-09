@@ -4,7 +4,10 @@
 
 ## 🚀 About Me
 
-- 🎓 I am Ayongezwa Ndamase, a **Software Developer** (specializing in **JavaScript** and **Flutter + Dart**). I have academic history in the health field, and I enjoy spreading knowledge through teaching. I love Maths and English.
+I am a freelance mobile and full-stack developer specialising in Flutter and Dart, with production experience shipping cross-platform applications for web and mobile. My lead project is BeeFive — a cross-platform game I am building independently, currently live with its first users across web (Next.js) and mobile (Flutter). I built my development skills as a CodeSpace Academy graduate and through the Capaciti learnership, where the Suitable Focus placement gave me a year of real delivery work: designing and shipping a Flutter app end-to-end, including UI, backend integration, course management, and in-app payments. 
+I studied towards a BSc Dietetics at the University of the Western Cape, completing three years of academic credits. That training built habits I apply directly to software development: working from evidence, breaking problems into components, and validating that a solution actually does what it is supposed to. I am familiar with AI-assisted development tools including Cursor, which I use to move faster without losing the quality check. 
+I take on freelance briefs across mobile and web development, with a particular interest in health, wellness, and education products where my science background adds domain value. 
+
 
 
 - 🎸 Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies include **gym**, **Hiking**, **playing board games**, and currently learning  **speed chess**.
