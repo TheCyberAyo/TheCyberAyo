@@ -35,8 +35,8 @@ A turn-based race across a 10×10 board: move your piece or place a wall, while 
 
 ### Tools I work with
 
-**Web:** TypeScript · JavaScript · React · Next.js · HTML · CSS<br>
-**Mobile:** Flutter · Dart · Capacitor<br>
+**Web:** TypeScript · JavaScript · React.js · Next.js · HTML · CSS<br>
+**Mobile:** Flutter · Dart · Capacitor · Xcode · Android Studio<br>
 **Backend & delivery:** Node.js · Firebase · Supabase · Git · Vercel<br>
 **Design:** Figma
 
