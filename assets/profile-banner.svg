@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Ayongezwa Ndamase — Full-stack and mobile developer</title>
+<desc id="desc">A dark navy banner with mint accents and an abstract board-game path. From idea to working product.</desc>
+<rect width="1200" height="360" rx="16" fill="#111c27"/>
+<path d="M56 55H108" stroke="#79d7bb" stroke-width="5"/>
+<text x="56" y="99" fill="#79d7bb" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">AYONGEZWA NDAMASE</text>
+<text x="53" y="167" fill="#f4f1e9" font-family="Arial, sans-serif" font-size="48" font-weight="700">From idea to</text>
+<text x="53" y="225" fill="#f4f1e9" font-family="Arial, sans-serif" font-size="48" font-weight="700">working product.</text>
+<text x="56" y="279" fill="#b3c2cc" font-family="Arial, sans-serif" font-size="19">Full-stack &amp; mobile developer</text>
+<text x="56" y="313" fill="#79d7bb" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">WEB / MOBILE / GAMES</text>
+<g stroke="#2b4050" stroke-width="1" fill="none">
+<path d="M818 60V300M878 60V300M938 60V300M998 60V300M1058 60V300M1118 60V300"/>
+<path d="M818 60H1118M818 120H1118M818 180H1118M818 240H1118M818 300H1118"/>
+</g>
+<path d="M848 270V210H968V90H1088" fill="none" stroke="#79d7bb" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M878 150H938M998 240H1118" stroke="#e5b37c" stroke-width="9" stroke-linecap="round"/>
+<circle cx="848" cy="270" r="11" fill="#111c27" stroke="#79d7bb" stroke-width="4"/>
+<circle cx="1088" cy="90" r="12" fill="#79d7bb"/>
+</svg>
